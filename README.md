@@ -1,4 +1,4 @@
 # minim0
 
-gint link
+git link
 https://avibasakpartho.github.io/minim0/
